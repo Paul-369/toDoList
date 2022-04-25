@@ -103,4 +103,5 @@
     color: red;
 }
 .abc{
+    box-sizing: border-box;
 }
